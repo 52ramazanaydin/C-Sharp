@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConstructorMethod2
+namespace PublicPrivateMethod
 {
     public class Araba
     {
